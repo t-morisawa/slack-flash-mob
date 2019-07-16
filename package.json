@@ -1,0 +1,9 @@
+{
+  "name": "slack-flash-mob",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "emoji-datasource": "^4.1.0",
+    "emoji-sentiment": "^3.0.2"
+  }
+}
